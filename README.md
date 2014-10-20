@@ -1,4 +1,4 @@
 misc
 ====
 
-There are differents scripts
+There are different scripts
